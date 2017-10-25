@@ -10,13 +10,13 @@ Open CTMT and then CTMT-HACK. It will do the rest.
 
 ## Contributing
 
-If you would like to join in on the fun please contact me on discord.
+If you would like to join in on the fun please contact me on discord.  
 FlufferNutter#5539
 
 ## Credits
 
-Fluffer_Nutter - Lead Coder
-Script_Kiddy - Lead Design
+Fluffer_Nutter - Lead Coder  
+Script_Kiddy - Lead Design  
 
 ## License
 
